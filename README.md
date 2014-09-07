@@ -1,4 +1,4 @@
 Algorithm
 =========
 
-some description of algorithm.
+some useful algorithm?
