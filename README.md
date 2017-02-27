@@ -1,4 +1,4 @@
 Algorithm
 =========
 
-some useful algorithm?
+some useful algorithm
