@@ -11,6 +11,9 @@
 #include<stack>
 #define MAX_NUM 100
 using namespace std;
+/*1.其中/2操作可以用右移1位(>>1)来替换,但是由于移位操作运算符优先级比较低，所以一定要加上括号
+2.写成int mid = left + ((right - left) >> 1);
+*/
 /*找到数组中key的位置*/
 int BinSearch_1(vector<int> nums,int key)
 {
